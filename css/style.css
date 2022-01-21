@@ -1,0 +1,54 @@
+
+li{
+    list-style-type:  none;
+    }
+    a{
+    text-decoration: none;
+    color: white;
+    }
+    .nvbar2{
+        display: flex;
+        justify-content: space-around;
+      
+    }
+    
+    .nvlinks{
+    position: relative;
+    color: white;
+    margin-top: 20px;
+    margin-right: 10px;
+    
+    
+    }
+    #color-white{
+        color: white;
+    }
+
+
+#contactbtn2{
+    margin-left: 53%;
+    margin-top: 10%;
+}
+#nvbartop1width{
+margin: 0;
+margin-top: 7px;
+text-align: center;
+}
+
+#nvbartop2width{
+margin-top: 7px;
+margin-left: 20%;
+text-align: center;
+}
+#navbar2{
+position: relative;
+height: 150px;
+width: 60%;  
+}
+.navlinks{
+position: relative;
+display: flex;
+}
+#contentnv{
+margin-left: 11%;
+}
